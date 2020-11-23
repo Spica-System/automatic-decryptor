@@ -3,9 +3,7 @@
 
 # automatic-decryptor
 
----
-
-automatic-decryptor can detect ciphertext and try to automatically convert it into plaintext
+automatic-decryptor can detect ciphertext and try to automatically convert it into plaintext.
 
 
 
@@ -25,9 +23,7 @@ You need to install the following packages
 
 # automatic-decryptor
 
----
-
-automatic-decryptor可以检测密文并尝试自动将其转化为明文
+automatic-decryptor可以检测密文并尝试自动将其转化为明文。
 
 
 
